@@ -1,0 +1,23 @@
+Mr.SUBIN SAHAYAM (COE18D001), PhD. Scholar with deliver First seminar talk as detailed below:
+
+ 
+
+Title:
+
+Brain Tumor Segmentation Using A Hybrid Multi-Resolution U-Net With Residual Dual Attention and Deep Supervision On MR Images
+
+Date
+
+28/10/2022
+
+Time
+
+3.00PM
+
+Venue
+
+H02, Academic Block
+
+Guide
+
+Dr. Umarani Jayaraman, Assistant Professor, Dept. of CSE, IIITDM Kancheepuram

@@ -1,0 +1,60 @@
+Labels:
+- Assignment
+- Internships
+- course matrials
+- Sessions/Seminar/Event
+- Exams
+- Others
+
+- Events: alumi talks, phd talks, club session
+- Extra Curricullars: 
+
+
+Internships:
+-> there are many mails about interships from alumi cell 
+-> not all mails from placement cell is about internship
+-> some mails are also sent from hod
+
+
+Assignments:
+-> there are also going to be nptel assignments
+-> there are other assignments which are other than google classroom notifications
+
+
+Hostel:
+-> not all mails are about hostel, they also send mails about festival celebrations
+
+
+*************************************************************************************
+
+- Words as features
+- Nouns carry a lot of meaning
+
+Pre-processing:
+- Lower case conversion
+- Word tokenization
+- Stopwords filtering: removes stopwords
+- Lemmatization: converts words to its base words
+
+
+Processing Using:
+- countVectorization
+- N-Gram word features
+- Tf-IDF: gives a weight to each word
+
+
+countVectorization
+- converts collection of text documents into a matrix
+- rows: represents documents
+- cols: words/n-grams 
+- entries of the matrix is the frequency of words
+
+Model:
+- Bayers Classifier
+
+
+- draw a heatmap of the confusion matrix
+
+
+
+

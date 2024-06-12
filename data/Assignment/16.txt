@@ -1,0 +1,3 @@
+NEW ASSIGNMENTDue Feb 5
+Detailed specification of your selected product
+Please create a block diagram to understand the working of ANY TWO products chosen in the previous assignment. Also, identify the sensors and their specification. Also, analyze this specification w.r.t the product specification given by the manufacturer.

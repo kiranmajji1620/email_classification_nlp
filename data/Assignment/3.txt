@@ -1,0 +1,13 @@
+Dear Students,
+
+ 
+
+Illustrate the modulation and demodulation process for the Amplitude Modulation technique DSB-FC along with their frequency spectrum representation using MATLAB. Consider the frequency, amplitude of message and carrier signal as per the design strategy.
+
+ 
+
+Last date of submission of assignment:  15th November 2023
+
+ 
+
+Submissions received after the due date will not be considered for evaluation.

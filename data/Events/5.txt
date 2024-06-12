@@ -1,0 +1,47 @@
+Greetings from CS Club
+
+
+
+We hope you’re doing well and you’re excited for what we have planned next! EdITH is back again with another session on Android App Development with Kotlin.
+
+
+
+This is a great opportunity to learn the fundamentals of Kotlin and how to use Android Studio to build a basic app. You will also be provided with additional resources to kickstart your android development journey! 
+
+
+
+The prerequisites are to have Android Studio installed (spoiler alert: it’s quite a large file). Also bring a fully charged laptop.
+
+
+
+We would be thrilled if you go through this short introductory video on Kotlin as well. It would be immensely helpful.
+
+Learn Kotlin in 12 Minutes - 2022
+
+
+
+Date - 20th April 2023
+
+Time - 8:00 PM- 9:00 PM
+
+Venue - H02
+
+
+
+We can’t wait to see you there!
+
+
+
+You can find the download link for android studio here: 
+
+Android Studio
+
+
+
+
+
+
+
+Regards
+
+CS Club IIITDM

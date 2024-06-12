@@ -1,0 +1,19 @@
+Greetings from CS Club,
+
+We hope you all are doing well. This mail is to inform that BuildBear is offering a FREE, 3 Hours Online Workshop on Solidity Smart Contract Development. This workshop aims to enhance your skills in this domain and offer employment opportunities. This is a great chance for anyone who is interested in Web3.0 and Blockchain.
+
+It is preferred to have familiarity with
+
+VS Code
+NodeJS
+NPM and NPX for this workshop.
+Date: 25 June, 2023 (Sunday) 
+Duration: 3 Hours (Timings will be informed soon)
+Registration: https://tally.so/r/3xr0do (FREE)
+
+Don't miss out on this incredible opportunity! Register Now and get ready to deep dive into the world of Smart Contracts. Also, Remember that potential candidates will get Internship opportunities from the company.
+
+For any queries feel free to contact us.
+
+Best Wishes,
+CS Club IIITDM

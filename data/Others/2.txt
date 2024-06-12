@@ -1,0 +1,8 @@
+Dear all, 
+
+We have taken up the Wi-Fi issues with the networking team, the MAC address system have begun. A separate g-form shall be circulated for the Wi-Fi MAC address collection in another 4-5 days, until then laptops for which the Ethernet MAC address are given shall work via Ethernet and if you have issues on connecting your phone via Wi-Fi, please ensure that the random ip generated in Android devices or Private Wi-Fi address on IoS devices is switched off.
+
+Since there is a transition cooperation is solicited from all. 
+
+Regards, 
+Technical Affairs Team.

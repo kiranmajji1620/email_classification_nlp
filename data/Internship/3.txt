@@ -1,0 +1,9 @@
+Dear learner,
+
+Here is an exciting announcement from Texas Instruments (TI) for NPTEL students and presents a wonderful opportunity to qualify for an internship or a full time position with TI.
+
+    - Top scorers in the core courses – Either both Basic Electrical Circuits and Analog Circuits OR one course Analog IC Design, will be eligible to interview for the internship program (for students completing 4th and 6th semester for B.Tech and 2nd semester for M.Tech) and full-time position (for final year students). 
+Texas Instruments recommends students to finish Basic Electrical Circuits and Analog Circuits by 4th semester and Analog IC design by 6th semester.
+
+    - Texas Instruments also recommends students to finish one of the following courses: Circuit analysis for analog designers, Introduction to time varying electrical networks, Phase-Locked Loops and Power Management Integrated circuits, by 6th Semester. 
+Top scorers in the additional course will get preference.
